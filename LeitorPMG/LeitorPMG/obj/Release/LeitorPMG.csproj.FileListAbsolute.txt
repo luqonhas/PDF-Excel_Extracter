@@ -1,0 +1,15 @@
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\bin\Release\LeitorPMG.exe.config
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\bin\Release\LeitorPMG.exe
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\bin\Release\LeitorPMG.pdb
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\bin\Release\itextsharp.dll
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\bin\Release\itextsharp.xml
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.csproj.AssemblyReference.cache
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.csproj.ResolveComReference.cache
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.Form1.resources
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.Properties.Resources.resources
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.csproj.GenerateResource.cache
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.csproj.CoreCompileInputs.cache
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.csproj.CopyComplete
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.exe
+C:\Users\apoli\OneDrive\Área de Trabalho\NULLORISCO\LeitorPMG\LeitorPMG\obj\Release\LeitorPMG.pdb
